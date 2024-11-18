@@ -80,7 +80,7 @@
             </nav>
         </div>
     </div>
-
+ vmv
     <!-- Main Navigation Menu -->
     <header id="navbar" class="sticky top-0 z-20 border-b border-default-200 bg-transparent transition-all">
         <div class="lg:h-20 h-14 flex items-center">
