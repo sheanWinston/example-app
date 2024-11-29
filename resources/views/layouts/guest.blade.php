@@ -13,15 +13,15 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     <!-- Theme favicon -->
-    <link rel="shortcut icon" href="assets/favicon-c43f27ef.ico">
+    <link rel="shortcut icon" href="/assets/favicon-c43f27ef.ico">
 
     <!--  Head js -->
-      <script type="module" crossorigin src="assets/home-c1b793e9.js"></script>
-      <link rel="modulepreload" crossorigin href="assets/theme-b118ffc1.js">
-      <link rel="modulepreload" crossorigin href="assets/free-mode-d251b1d1.js">
-      <link rel="modulepreload" crossorigin href="assets/navigation-f8e75545.js">
-      <link rel="modulepreload" crossorigin href="assets/thumbs-a96dec08.js">
-      <link rel="stylesheet" href="assets/theme-c9540983.css">
+      <script type="module" crossorigin src="/assets/home-c1b793e9.js"></script>
+      <link rel="modulepreload" crossorigin href="/assets/theme-b118ffc1.js">
+      <link rel="modulepreload" crossorigin href="/assets/free-mode-d251b1d1.js">
+      <link rel="modulepreload" crossorigin href="/assets/navigation-f8e75545.js">
+      <link rel="modulepreload" crossorigin href="/assets/thumbs-a96dec08.js">
+      <link rel="stylesheet" href="/assets/theme-c9540983.css">
     </head>
 
 <body>
@@ -80,7 +80,7 @@
             </nav>
         </div>
     </div>
- vmv
+
     <!-- Main Navigation Menu -->
     <header id="navbar" class="sticky top-0 z-20 border-b border-default-200 bg-transparent transition-all">
         <div class="lg:h-20 h-14 flex items-center">
@@ -94,8 +94,8 @@
 
                         <!-- Navbar Brand Logo -->
                         <a href="home.html">
-                            <img src="assets/logo-dark-6dbab3e1.png" alt="logo" class="h-10 flex dark:hidden">
-                            <img src="assets/logo-light-35c89c2c.png" alt="logo" class="h-10 hidden dark:flex">
+                            <img src="/assets/logo-dark-6dbab3e1.png" alt="logo" class="h-10 flex dark:hidden">
+                            <img src="/assets/logo-light-35c89c2c.png" alt="logo" class="h-10 hidden dark:flex">
                         </a>
                     </div>
 
@@ -192,8 +192,8 @@
     <div id="mobile-menu" class="hs-overlay hs-overlay-open:translate-x-0 hidden -translate-x-full fixed top-0 left-0 transition-all transform h-full max-w-[270px] w-full z-60  border-r border-default-200 bg-white dark:bg-default-50" tabindex="-1">
         <div class="flex justify-center items-center border-b border-dashed border-default-200 h-16 transition-all duration-300">
             <a href="home.html">
-                <img src="assets/logo-dark-6dbab3e1.png" alt="logo" class="h-10 flex dark:hidden">
-                <img src="assets/logo-light-35c89c2c.png" alt="logo" class="h-10 hidden dark:flex">
+                <img src="/assets/logo-dark-6dbab3e1.png" alt="logo" class="h-10 flex dark:hidden">
+                <img src="/assets/logo-light-35c89c2c.png" alt="logo" class="h-10 hidden dark:flex">
             </a>
         </div>
         <div class="h-[calc(100%-4rem)]" data-simplebar>
